@@ -3,4 +3,3 @@
 ## Vaga: Estágio Análise e Desenvolvimento
 
 ## Fase 2: Desafio de Código
-# desafio_target
